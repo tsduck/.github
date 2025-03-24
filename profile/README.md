@@ -5,7 +5,7 @@
 <hr/>
 
 ### Main repositories
-- [tsduck](https://github.com/tsduck/tsduck) : TSDuck source code, documentation and build tools
+- [tsduck](https://github.com/tsduck/tsduck) : TSDuck source code, documentation, build, packaging
 - [tsduck-test](https://github.com/tsduck/tsduck-test) : TSDuck test suite
 
 ### Support for third-party tools
