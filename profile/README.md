@@ -10,6 +10,6 @@
 
 ### Support for third-party tools
 - [hides-drivers](https://github.com/tsduck/hides-drivers) : Linux and Windows drivers for HiDes devices
-- [rist-installer](https://github.com/tsduck/rist-installer) : Windows binary packaging of [librist](https://code.videolan.org/rist/librist)
+- [rist-installer](https://github.com/tsduck/rist-installer) : Windows binary packaging of [librist](https://code.videolan.org/rist/librist) (used to rebuild TSDuck on Windows)
 
 These repositories repackage third-party tools which are not easily available otherwise.
