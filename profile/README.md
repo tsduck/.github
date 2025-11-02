@@ -7,6 +7,7 @@
 ### Main repositories
 - [tsduck](https://github.com/tsduck/tsduck) : TSDuck source code, documentation, build, packaging
 - [tsduck-test](https://github.com/tsduck/tsduck-test) : TSDuck test suite
+- [tsduck-presentations](https://github.com/tsduck/tsduck-presentations) : Presentations and communication materials for TSDuck
 
 ### Support for third-party tools
 - [hides-drivers](https://github.com/tsduck/hides-drivers) : Linux and Windows drivers for HiDes devices
