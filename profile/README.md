@@ -1,6 +1,6 @@
 <img alt="TSDuck logo" src="https://github.com/tsduck/tsduck/blob/master/images/tsduck-logo-name.svg" width="100%"/>
 <h1 align="center">Welcome to TSDuck</h1>
-<h3 align="center">The Reference MPEG Transport Stream Processing Toolkit</h3>
+<h3 align="center">The free and open-source reference framework for MPEG transport streams</h3>
 <h3 align="center"><a href="https://tsduck.io">tsduck.io</a></h3>
 <hr/>
 
